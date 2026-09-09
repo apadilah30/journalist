@@ -1,0 +1,6 @@
+{
+  "name": "ScholarFlow",
+  "description": "Scholarly research platform for discovering, synthesizing, citing, and organizing peer-reviewed literature with real-time citation tracking and library management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
